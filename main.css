@@ -1,0 +1,97 @@
+
+  img{
+   
+        width: 400px;
+        /* margin-left: 427px; */
+        position: absolute;
+    top: 80px;
+    left: 435px;
+  }
+  button{
+   background-color: mediumaquamarine;
+    border: 2px solid white;
+    color: white;
+    padding: 9px 20px;
+    border-radius: 9px;
+    font-size: 16px;
+    /* margin: 20px auto 10px 590px; */
+    position: absolute;
+    top: 500px;
+    left: 600px;
+  }
+  #message{
+    background: #333;
+    color: #fff;
+    width: 136px;
+    font-size: 21px;
+    text-align: center;
+    height: 26px;
+    border-radius: 6px;
+    position: absolute;
+    top: 29px;
+    left: 147px;
+  }
+  #numOfWin{
+   background: #333;
+   color: #fff;
+   width: 136px;
+   font-size: 21px;
+   text-align: center;
+   height: 26px;
+   border-radius: 6px;
+   position: absolute;
+    top: 42px;
+    left: 147px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+   .box1,.box2,.box3,.box4,.box5,.box6,.box7,.box8,.box9{
+    width: 52px;
+    height: 52px;
+    background-color: white;
+    position: fixed;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 48px;
+ }
+
+ .box1{
+    top: 153px;
+    left: 522px;
+    
+ }
+ .box2{
+    top: 153px;
+    left: 609px;
+ }
+ .box3{
+    top: 153px;
+    left: 696px;
+ }
+ .box4{
+    top: 240px;
+    left: 522px;
+ }
+ .box5{
+    top: 240px;
+    left: 609px;
+ }
+ .box6{
+    top: 240px;
+    left: 696px;
+ }
+ .box7{
+    top: 327px;
+    left: 522px;
+ }
+ .box8{
+    top: 327px;
+    left: 609px;
+ }
+ .box9{
+    top: 327px;
+    left: 696px;
+ }
